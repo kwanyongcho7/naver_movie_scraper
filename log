@@ -1,1 +1,3 @@
-Information of all movies were scraped successfully.
+Exist exceptions
+
+movie id = 134963'str' object has no attribute 'select'
