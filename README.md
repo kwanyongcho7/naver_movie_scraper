@@ -1,3 +1,6 @@
+#
+pip install bs4
+
 # 네이버 영화 정보 및 사용자 작성 영화평/평점 데이터 수집기
 
 `naver_movie_scraper` 폴더는 다음의 파일들로 구성되어 있습니다.
